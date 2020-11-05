@@ -2,21 +2,27 @@ h1{
   text-align: left;
   font-family: arial;
 }
+
 p {
   font-family: sans-serif;
   color: red;
   color: black;
 }
+
 .fun-facts{
   border: 2px solid black;
   padding: 15px;
   margin: auto;
   box-sizing: border-box;
 }
+
 .self-image{
   float: left;
 }
+
 .project-list{
   text-align: center;
 }
+
+
   
